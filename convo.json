@@ -1,0 +1,57 @@
+User: Hi there! What's your name? Please type it below.
+
+System (BERT Bot): 👋 Hi there! What's your name? Please type it below.
+
+User: Aakash Khamaru
+
+System (BERT Bot): 🎉 Great, nice to meet you, Aakash! 🎉
+
+User: 2002/10/17
+
+System (BERT Bot): 📅 Next, could you please provide your date of birth in YYYY/MM/DD format?
+
+User: 2002/10/17
+
+System (BERT Bot): 🏠 Finally, what's your address? Please include the city and country.
+
+User: latitude:49.1, longitude:87
+
+System (BERT Bot): 🍽️ Now, what would you like to order? You can type in your choices, and I'll provide some popular recommendations.
+
+User: recommendations
+
+System (BERT Bot): 🌟 Great choices! Here are some popular recommendations based on what you've selected:
+
+1️⃣ 🍔 Burger from Burger Palace
+2️⃣ 🍕 Pizza from Pizza Heaven
+3️⃣ 🌮 Tacos from Taco Town
+4️⃣ 🍝 Pasta from Pasta Paradise
+5️⃣ 🍣 Sushi from Sushi Delight
+
+System (BERT Bot): 📍 Lastly, let's find some restaurants near you. Could you please confirm your address one more time?
+
+User: burger
+
+System (BERT Bot): 🍴 Here's a list of restaurants near you:
+
+1️⃣ Burger Palace
+2️⃣ Burger King
+3️⃣ Big Burger Joint
+4️⃣ Patty's Burgers
+5️⃣ The Burger Shack
+
+User: the burger shack
+
+System (BERT Bot): 🛒 Great choice! Here's a summary of your order:
+
+Name: Aakash
+Date of Birth: 2002/10/17
+Address: Latitude: 49.1, Longitude: 87
+Order: Burger from The Burger Shack
+System (BERT Bot): Is everything correct? Once confirmed, your order will be on its way!
+
+User: confirm
+
+System (BERT Bot): Your order has been confirmed! 🎉
+🚚 Your delicious burger from The Burger Shack will be delivered to Latitude: 49.1, Longitude: 87 shortly.
+Thank you for using BERT Bot for your food order! If you need any more assistance, feel free to ask. Enjoy your meal! 🍔
